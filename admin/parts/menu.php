@@ -20,7 +20,7 @@ include('../config/constants.php');
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Admin</a></li>
                 <li><a href="#">Category</a></li>
-                <li><a href="#">Fud</a></li>
+                <li><a href="#">Food</a></li>
                 <li><a href="#">Order</a></li>
                 <li><a href="#">Logout</a></li>
                 
