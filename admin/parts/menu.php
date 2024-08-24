@@ -18,11 +18,11 @@ include('../config/constants.php');
 
             <ul>
                 <li><a href="#">Home</a></li>
-                <li><a href="#">admin</a></li>
-                <li><a href="#">category</a></li>
-                <li><a href="#">food</a></li>
-                <li><a href="#">order</a></li>
-                <li><a href="#">logout</a></li>
+                <li><a href="#">Admin</a></li>
+                <li><a href="#">Category</a></li>
+                <li><a href="#">Food</a></li>
+                <li><a href="#">Order</a></li>
+                <li><a href="#">Logout</a></li>
                 
             </ul>
         </div>
